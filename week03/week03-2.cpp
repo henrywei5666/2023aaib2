@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    int a=5;
-    while(a>0){
-      printf("a是%d\n",a);
-      a-=1; ///讓a慢慢變小
-      }
+	int a=5;
+	while(a>0){
+		printf("a是%d\n",a);
+		a-=1;
+	}
 }
